@@ -1,0 +1,3 @@
+Spring事件Demo
+1.实现ApplicationListener，泛型中存放的是需要监听的事件
+2.利用@EventListener注解，注解中的入参为要监听的事件
